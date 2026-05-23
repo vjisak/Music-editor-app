@@ -2,7 +2,7 @@
 
 A full-stack, AI-powered music learning web application built with **React + Vite** (frontend) and **Django REST Framework** (backend). Features an audio transcription pipeline powered by **Spotify's Basic Pitch** machine learning model.
 
-![Music App](./frontend%20(3)/public/placeholder.svg)
+
 
 ---
 
