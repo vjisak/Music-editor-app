@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "d:\\Musicapp\\python3_bin\\python.exe",
+  "python.analysis.extraPaths": [
+    "d:\\Musicapp\\music-learning-app\\backend"
+  ]
+}

@@ -1,0 +1,14 @@
+Django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.0
+
+# Audio Transcription (Spotify Basic Pitch via ONNX - no TensorFlow needed)
+onnxruntime>=1.16
+librosa>=0.10
+pretty_midi>=0.2.9
+resampy>=0.2.2,<0.4.3
+scikit-learn>=1.0
+scipy>=1.4.1
+numpy>=1.18
+mir_eval>=0.6.0
+typing_extensions

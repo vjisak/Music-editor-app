@@ -1,0 +1,71 @@
+# ─── Python / Django ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-wheel-metadata/
+*.log
+
+# Django
+*.sqlite3
+local_settings.py
+db.sqlite3-journal
+/backend/staticfiles/
+/backend/media/
+
+# ─── Node / Frontend ─────────────────────────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+.cache/
+*.local
+
+# Vite
+.vite/
+
+# ─── IDE / OS ────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Env files ───────────────────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.*.local
+
+# ─── Test / Coverage ─────────────────────────────────────────────────────────
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# ─── Misc ────────────────────────────────────────────────────────────────────
+*.mid
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.aiff
+*.aac
+*.pdf
+*.mxl
+*.npz
